@@ -1,0 +1,73 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "jshfjdhsfj",
+        "intent": "None",
+        "entities": []
+      },
+      {
+        "text": "dfjkhjkfds",
+        "intent": "None",
+        "entities": []
+      },
+      {
+        "text": "hey",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "hello",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "hi",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "howdy",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "hola",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "namaste",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "heya",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "ho",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "yo",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "hie",
+        "intent": "hello",
+        "entities": []
+      },
+      {
+        "text": "ello",
+        "intent": "hello",
+        "entities": []
+      }
+    ],
+    "intent_examples": [],
+    "entity_examples": []
+  }
+}
